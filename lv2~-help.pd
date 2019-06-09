@@ -1,0 +1,4 @@
+#N canvas 0 23 450 300 10;
+#X obj 233 152 lv2~;
+#X msg 179 65 control test 10;
+#X connect 1 0 0 0;
